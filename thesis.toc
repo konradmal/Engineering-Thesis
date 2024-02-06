@@ -1,0 +1,35 @@
+\contentsline {chapter}{\numberline {1}Wstęp}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Cel i zakres pracy}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Tematyka pracy}{10}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Teoria}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Operacja modulo}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Przystawanie modulo}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Działania w zbiorze reszt modulo m}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Rozszerzony algorytm Euklidesa}{14}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Równania modularne}{16}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Funkcja Eulera}{18}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Małe Twierdzenie Fermata}{20}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Twierdzenie Eulera}{21}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Struktura aplikacji}{22}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Teoria w praktyce}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Implementacja algorytmów w JavaScript}{23}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Inicjowanie zadań}{23}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Zarządzanie zdarzeniem przesłania formularza}{24}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Organizacja kodu}{24}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Proces weryfikacji odpowiedzi}{24}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}Przykłady implementacji algorytmów}{25}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Algorytm generujący losowe liczby}{25}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Algorytm generujący losowe liczby pierwsze}{26}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Algorytm Euklidesa do obliczania NWD}{27}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Rozszerzony algorytm Euklidesa}{28}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Obliczanie odwrotności modularnej}{29}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Funkcja Eulera}{31}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Potęgowanie modularne}{32}{subsection.4.2.7}%
+\contentsline {subsection}{\numberline {4.2.8}Funkcja sprawdzająca względną pierwszość}{33}{subsection.4.2.8}%
+\contentsline {chapter}{\numberline {5}Graficzny interfejs użytkownika}{34}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Opis ogólny}{34}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Strona główna aplikacji}{35}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Strony teorii}{36}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Strony z zadaniami}{37}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Podsumowanie i wnioski}{39}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Bibliografia}{40}{chapter.7}%
