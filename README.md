@@ -1,33 +1,26 @@
-# SGGW-Thesis-Latex
-This class was created by Łukasz Adamczyk as part of his engineering thesis. The repository is supposed to provide better versioning and ease of contribution.
+# Modular Arithmetic Learning Support Application
 
-# Instruction
-## Changing thesis type header
-To change the header containing thesis type, after the 
-```latex
-\documentclass{SGGW-thesis}
-```
+## Overview
 
-set one of the flags to true
+This project aims to facilitate the learning of modular arithmetic for first-year computer science students. It is a web application designed using HTML, CSS, and JavaScript to provide an interactive learning experience. The application covers various topics in modular arithmetic, offering theoretical explanations followed by practical, algorithm-based exercises.
 
-```latex
-\INZYNIERSKAtrue % set by default
-```
-```latex
-\LICENCJACKAtrue
-```
-```latex
-\MAGISTERSKAtrue
-```
+## Features
 
-## Changing department footer
-To change the footer containing department, after the 
-```latex
-\documentclass{SGGW-thesis}
-```
+- **Interactive Learning Modules:** Each topic is introduced with a theoretical background, followed by exercises categorized into basic and advanced levels.
+- **Algorithm Implementations:** Includes JavaScript implementations for generating random numbers, prime numbers, calculating GCD using Euclid's algorithm, and more.
+- **User-friendly Interface:** Designed to be intuitive and aesthetically pleasing, ensuring compatibility across devices.
 
-set one of the flags to true
+## Getting Started
 
-```latex
-\WZIMtrue % no other flags for departments exist right now
-```
+To run the application locally:
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a web browser.
+
+## Structure
+
+The application is structured into multiple HTML and JavaScript files, each serving a specific function, ranging from presenting theoretical content to managing exercise submissions and user interactions.
+
+## Contact
+- Author: Konrad Maleńczak
+- Supervisor: Dr Andrzej Zembrzuski
+- Institution: Faculty of Applied Informatics and Mathematics, Warsaw University of Life Sciences
